@@ -23,4 +23,5 @@
 # (among others).
 
 *.js linguist-language=Python
+templates/* linguist-language=Python
 static/* linguist-vendored
